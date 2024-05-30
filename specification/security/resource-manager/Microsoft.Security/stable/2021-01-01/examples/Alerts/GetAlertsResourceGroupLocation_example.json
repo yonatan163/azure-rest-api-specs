@@ -23,6 +23,7 @@
               "intent": "Execution",
               "startTimeUtc": "2020-02-22T00:00:00.0000000Z",
               "endTimeUtc": "2020-02-22T00:00:00.0000000Z",
+              "lastUpdatedTimeUtc": "2020-02-23T00:00:00.0000000Z",
               "resourceIdentifiers": [
                 {
                   "azureResourceId": "/subscriptions/20ff7fc3-e762-44dd-bd96-b71116dcdc23/resourceGroups/myRg1/providers/Microsoft.Compute/virtualMachines/vm1",
